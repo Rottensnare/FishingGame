@@ -3,15 +3,7 @@ Console Fishing Game for a online C++ course.
 
 The project uses C++ without external libraries.
 Libraries used:
-<iostream>
-<chrono>	
-<thread>	
-<random>	
-<string>
-<assert.h>	
-<Windows.h>
-<fstream>	
-<ctime>	
+iostream, chrono,	thread,	random, string, assert.h,	Windows.h, fstream,	ctime	
 
 The project has simple uses of Macros, Templates, Random Number Generation, Inheritance, File streams, Passing by reference and more.
 
