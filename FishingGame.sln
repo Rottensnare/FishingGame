@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FishingGame", "FishingGame\FishingGame.vcxproj", "{E3180552-43D2-4FF8-9123-F3D0265FCE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Debug|x64.ActiveCfg = Debug|x64
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Debug|x64.Build.0 = Debug|x64
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Debug|x86.Build.0 = Debug|Win32
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Release|x64.ActiveCfg = Release|x64
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Release|x64.Build.0 = Release|x64
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Release|x86.ActiveCfg = Release|Win32
+		{E3180552-43D2-4FF8-9123-F3D0265FCE26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330B757F-EB76-482A-867D-0C1E51872286}
+	EndGlobalSection
+EndGlobal
